@@ -32,7 +32,7 @@ def sum_of_digits(number):
     Side effects:   None.
     Example:
       If the integer is 83135,
-      this function returns (8 + 3 + 1 + 3 + 5), which is 20.
+      this function returns (8 + 3 + 1 + 3 + 5), which is. 20.
     """
     # -------------------------------------------------------------------------
     # Students:
